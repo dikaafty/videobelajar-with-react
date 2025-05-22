@@ -44,3 +44,8 @@
     --grayscale-50: #FAFAFA;
     
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
