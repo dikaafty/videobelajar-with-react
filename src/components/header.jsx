@@ -43,3 +43,5 @@ const Header = ({ isHomepageHeader = false }) => {
     );
   }
 }
+
+export default Header;
