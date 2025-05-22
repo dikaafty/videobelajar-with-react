@@ -1,0 +1,46 @@
+:root {
+    --primary-color: #3ECF4C;
+    --secondary-color: #FFBD3A;
+    --tertiary-color: #F64920;
+    --primary-dark-text-color: #222325;
+    --secondary-dark-text-color: #333333AD;
+    --disabled-dark-text-color: #3A354161;
+    --primary-light-text-color: #FFFFFF;
+    --secondary-light-text-color: #C1C2C4;
+    --disabled-light-text-color: #9D9EA1;
+    --primary-background-color: #FFFFFF;
+    --base-background-color: #F4F5FA;
+    --secondary-background-color: #F9FAFC;
+    --border-color: #3A35411F;
+    --pressed-info: #044AA2;
+    --hover-info: #0663C2;
+    --default-info: #0980E2;
+    --info-background-color: #EBF9FE;
+    --pressed-success: #1C9675;
+    --hover-success: #28B380;
+    --default-success: #38D189;
+    --success-background-color: #E0FDDF;
+    --pressed-warning: #B5A40D;
+    --hover-warning: #D8C613;
+    --default-warning: #FCE91B;
+    --warning-background-color: #FCF8CA;
+    --pressed-error: #B72315;
+    --hover-error: #DB3D1F;
+    --default-error: #FF5C2B;
+    --error-background-color: #FCE3D1;
+    --info-gradients: linear-gradient(to right, #004CE8, #6F9EFF);
+    --success-gradients: linear-gradient(to right, #00C247, #73FFA6);
+    --warning-gradients: linear-gradient(to right, #FFE16A, #FFE58036);
+    --error-gradients: linear-gradient(to right, #FF3333, #FF8A9B);
+    --grayscale-900: #212121;
+    --grayscale-800: #424242;
+    --grayscale-700: #616161;
+    --grayscale-600: #757575;
+    --grayscale-500: #9E9E9E;
+    --grayscale-400: #BDBDBD;
+    --grayscale-300: #E0E0E0;
+    --grayscale-200: #EEEEEE;
+    --grayscale-100: #F5F5F5;
+    --grayscale-50: #FAFAFA;
+    
+}
