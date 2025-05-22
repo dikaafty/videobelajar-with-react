@@ -119,6 +119,12 @@ body {
     cursor: pointer;
 }
 
+.avatarImg {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
