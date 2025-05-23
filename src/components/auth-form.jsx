@@ -25,3 +25,5 @@ const AuthForm = ({ isLoginForm }) => {
       </>
   );
 }
+
+export default AuthForm;
