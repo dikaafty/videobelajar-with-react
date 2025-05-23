@@ -5,7 +5,11 @@ const AuthForm = ({ isLoginForm }) => {
   return (
       <>
         <div className="formContainer">
-          <div className="formDesc"></div>
+          <div className="formDesc">
+            <h3 className="formTitle">
+              {isLoginForm ? 'Masuk ke Akun' : 'Pendaftaran Akun'}
+            </h3>
+          </div>
         </div>
       </>
   );
