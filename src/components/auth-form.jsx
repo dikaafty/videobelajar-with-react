@@ -15,7 +15,9 @@ const AuthForm = ({ isLoginForm }) => {
             </p>
           </div>
 
-          <div className="action"></div>
+          <div className="action">
+            <form action="" method="post"></form>
+          </div>
         </div>
       </>
   );
