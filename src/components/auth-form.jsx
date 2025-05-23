@@ -5,7 +5,7 @@ const AuthForm = () => {
   return (
       <>
         <div className="formContainer">
-
+          <div className="formDesc"></div>
         </div>
       </>
   );
