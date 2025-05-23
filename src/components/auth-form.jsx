@@ -14,6 +14,8 @@ const AuthForm = ({ isLoginForm }) => {
               : 'Yuk, daftarkan akunmu sekarang juga!'}
             </p>
           </div>
+
+          <div className="action"></div>
         </div>
       </>
   );
