@@ -1,4 +1,4 @@
-const AuthForm = ({ isLoginForm }) => {
+const AuthForm = ({ isLoginForm = true }) => {
   return (
       <>
         <div className="formContainer">
