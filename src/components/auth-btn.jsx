@@ -1,3 +1,5 @@
 const AuthBtn = ({ isLoginBtn }) => {
-
+  return(
+    
+  );
 }
