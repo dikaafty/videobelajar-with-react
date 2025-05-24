@@ -5,3 +5,5 @@ const BtnAction = ({ children }) => {
     </div>
   );
 }
+
+export default BtnAction;
