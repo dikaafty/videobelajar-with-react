@@ -1,5 +1,5 @@
-const GoogleSSOBtn = () => {
+const GoogleSSOBtn = ({ inLoginPage }) => {
   return (
-    
+
   );
 }
