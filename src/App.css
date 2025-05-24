@@ -176,6 +176,11 @@ body {
     color: var(--default-error);
 }
 
+.wrapper {
+    display: flex;
+    position: relative;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
