@@ -522,7 +522,8 @@ body {
         grid-template-columns: min-content auto;
     }
 
-    .phoneInputWrapper select {
+    .phoneInputWrapper select,
+    .phoneInputContainer input {
         font-size: 14px;
     }
 
