@@ -3,3 +3,5 @@ const Divider = () => {
     <div className="divider">atau</div>
   );
 }
+
+export default Divider;
