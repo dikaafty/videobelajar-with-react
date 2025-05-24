@@ -7,3 +7,5 @@ const Action = ({ children }) => {
     </div>
   );
 }
+
+export default Action;
