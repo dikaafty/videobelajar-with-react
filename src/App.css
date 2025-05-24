@@ -110,6 +110,14 @@ body {
     gap: 10px;
 }
 
+.formTitle {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 110.00000000000001%;
+    color: var(--primary-dark-text-color);
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
