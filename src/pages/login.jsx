@@ -13,7 +13,9 @@ const LoginPage = () => {
     <Body>
       <AuthForm>
         <Container containerClass="action">
-          
+          <ActionForm>
+            
+          </ActionForm>
         </Container>
       </AuthForm>
     </Body>
