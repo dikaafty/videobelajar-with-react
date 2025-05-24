@@ -22,7 +22,30 @@ const IdenticalInput = (
     );
   } else {
     return (
-      
+      <div className="identicalInputContainer">
+        <label 
+          htmlFor={labelFor} 
+          className="identicalLabel">
+            {labelText}
+            <span className="asterisk">*</span>
+        </label>
+
+        <div className="wrapper">
+          <input 
+            type={inputType}
+            name={inputName}
+            id={inputId}
+            required
+          />
+          <button type="button">
+            <img 
+              src={eyeOffIcon} 
+              alt="eye off icon" 
+              className="eyeOffIcon" 
+            />
+          </button>
+        </div>
+      </div>
     );
   }
 }
