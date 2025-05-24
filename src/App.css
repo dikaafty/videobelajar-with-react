@@ -418,6 +418,10 @@ body {
         padding: 7px 22px;
         font-size: 14px;
     }
+
+    .divider {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
