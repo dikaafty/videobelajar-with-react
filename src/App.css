@@ -209,6 +209,11 @@ body {
     transform: translateY(-50%);
 }
 
+.forgotPassContainer {
+    display: flex;
+    justify-content: end;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
