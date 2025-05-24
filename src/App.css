@@ -358,6 +358,11 @@ body {
         box-shadow: 0 0 1px #3E434A4F, 4px 8px 12px #3E434A26;
         z-index: 1;
     }
+
+    .videobelajarLogo {
+        width: 152px;
+        height: 42px;
+    }
 }
 
 /* Media Queries styling section end */
