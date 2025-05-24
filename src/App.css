@@ -351,6 +351,15 @@ body {
     display: flex;
 }
 
+.countryFlagContainer {
+    background-color: var(--base-background-color);
+    border-right: 1px solid #F1F1F1;
+    padding: 4px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Register styling section end */
 
 /* Homepage styling section start */
