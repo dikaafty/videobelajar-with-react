@@ -277,7 +277,26 @@ body {
 
 /* Login styling section start */
 
+.loginBtn.login,
+.registerBtn.login {
+    width: 518px;
+    background-color: var(--primary-color);
+    color: var(--primary-light-text-color);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 24px;
+    font-family: "DM Sans";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    cursor: pointer;
+}
 
+.registerBtn.login {
+    background-color: #E2FCD9CC;
+    color: var(--primary-color);
+}
 
 /* Login styling section end */
 
