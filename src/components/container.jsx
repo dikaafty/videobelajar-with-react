@@ -1,6 +1,6 @@
-const Container = ({ children, actionType = "action" }) => {
+const Container = ({ children, containerClass = "action" }) => {
   return (
-    <div className={actionType}>
+    <div className={containerClass}>
       {children}
     </div>
   );
