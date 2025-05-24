@@ -1,4 +1,4 @@
-const GenderInput = ({ fieldName, labelText }) => {
+const GenderInput = () => {
     return (
         
     );
