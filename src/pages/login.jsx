@@ -38,6 +38,8 @@ const LoginPage = () => {
           </ActionForm>
 
           <Divider />
+
+          <GoogleSSOBtn />
         </Container>
       </AuthForm>
     </Body>
