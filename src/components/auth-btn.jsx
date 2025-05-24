@@ -14,7 +14,7 @@ const AuthBtn = ({ isLoginBtn = true, inLoginPage = true }) => {
   return(
     <button 
       type="button" 
-      className={isLoginBtn ? "loginBtn" : "registerBtn"}>
+      className={getAuthBtnClasses()}>
         {isLoginBtn ? "Masuk" : "Daftar"}
     </button>
   );
