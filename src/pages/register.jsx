@@ -54,7 +54,9 @@ const RegisterPage = () => {
                 <ForgotPass />
               </Container>
 
-              <Container containerClass="btnAction"></Container>
+              <Container containerClass="btnAction">
+                <AuthBtn isLoginBtn={false} inLoginPage={false} />
+              </Container>
             </ActionForm>
           </Container>
         </AuthForm>
