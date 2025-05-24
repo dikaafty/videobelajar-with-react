@@ -9,6 +9,7 @@ import PhoneInput from "../components/phone-input";
 import ForgotPass from "../components/forgot-pass";
 import AuthBtn from "../components/auth-btn";
 import Divider from "../components/divider";
+import GoogleSSOBtn from "../components/google-sso-btn";
 
 const RegisterPage = () => {
   return (
