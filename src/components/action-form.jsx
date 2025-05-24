@@ -5,3 +5,5 @@ const ActionForm = ({ children }) => {
     </form>
   );
 }
+
+export default ActionForm;
