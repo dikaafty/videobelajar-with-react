@@ -338,6 +338,13 @@ body {
     flex-direction: column;
 }
 
+.phoneInputWrapper {
+    display: grid;
+    grid-template-columns: 0.93fr 2fr;
+    grid-template-rows: 48px;
+    gap: 24px;
+}
+
 /* Register styling section end */
 
 /* Homepage styling section start */
