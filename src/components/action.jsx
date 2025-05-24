@@ -1,4 +1,4 @@
-const Action = () => {
+const Action = ({ children }) => {
   return (
     
   );
