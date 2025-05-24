@@ -1,4 +1,4 @@
-const AuthBtn = ({ isLoginBtn = true }) => {
+const AuthBtn = ({ isLoginBtn = true, inLoginPage = true }) => {
   return(
     <button 
       type="button" 
