@@ -12,7 +12,9 @@ const LoginPage = () => {
   return (
     <Body>
       <AuthForm>
-        
+        <Container containerClass="action">
+          
+        </Container>
       </AuthForm>
     </Body>
   );
