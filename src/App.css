@@ -378,13 +378,18 @@ body {
     .formDesc {
         width: 100%;
     }
-    
+
     .formTitle {
         font-size: 24px;
     }
 
     .formSubTitle {
         font-size: 14px;
+    }
+
+    .inputAction,
+    .btnAction {
+        width: 100%;
     }
 }
 
