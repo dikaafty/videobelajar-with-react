@@ -31,7 +31,9 @@ const LoginPage = () => {
               <ForgotPass />
             </Container>
 
-            <Container containerClass="btnAction"></Container>
+            <Container containerClass="btnAction">
+              <AuthBtn />
+            </Container>
           </ActionForm>
         </Container>
       </AuthForm>
