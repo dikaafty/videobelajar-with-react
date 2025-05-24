@@ -89,6 +89,19 @@ body {
     gap: 64px;
 }
 
+.formContainer {
+    width: 590px;
+    background-color: var(--primary-background-color);
+    border: 1px solid #F1F1F1;
+    border-radius: 4px;
+    padding: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 36px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
