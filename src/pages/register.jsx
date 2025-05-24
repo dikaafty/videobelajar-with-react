@@ -43,6 +43,13 @@ const RegisterPage = () => {
                   inputType="password" 
                   isPassInput={true}
                 />
+
+                <IdenticalInput 
+                  fieldName="userConfirmPass" 
+                  labelText="Konfirmasi Kata Sandi" 
+                  inputType="password" 
+                  isPassInput={true}
+                />
               </Container>
 
               <Container containerClass="btnAction"></Container>
