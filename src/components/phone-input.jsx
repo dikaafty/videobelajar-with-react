@@ -36,3 +36,5 @@ const PhoneInput = () => {
     </div>
   );
 }
+
+export default PhoneInput;
