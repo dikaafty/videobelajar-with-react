@@ -360,6 +360,11 @@ body {
     align-items: center;
 }
 
+.countryFlagContainer img {
+    width: 24px;
+    aspect-ratio: 1;
+}
+
 /* Register styling section end */
 
 /* Homepage styling section start */
