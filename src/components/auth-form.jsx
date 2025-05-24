@@ -14,7 +14,7 @@ const AuthForm = ({ isLoginForm = true, children }) => {
 
           <div className="action">
             <form action="" method="post">
-              
+              {children}
             </form>
           </div>
         </div>
