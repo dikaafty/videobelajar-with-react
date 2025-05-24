@@ -1,3 +1,5 @@
+import eyeOffIcon from "../assets/images/eye-off-icon.png";
+
 const IdenticalInput = (
   { labelFor, labelText, inputType, inputName, inputId, isPassInput = false }
 ) => {
