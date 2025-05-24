@@ -127,6 +127,13 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.action {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
