@@ -405,6 +405,10 @@ body {
     .genderInputContainer {
         display: flex;
     }
+
+    .forgotPass {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
