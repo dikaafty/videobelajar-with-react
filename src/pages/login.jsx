@@ -36,6 +36,8 @@ const LoginPage = () => {
               <AuthBtn isLoginBtn={false} />
             </Container>
           </ActionForm>
+
+          <Divider />
         </Container>
       </AuthForm>
     </Body>
