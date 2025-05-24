@@ -7,6 +7,7 @@ import IdenticalInput from "../components/identical-input";
 import GenderInput from "../components/gender-input";
 import PhoneInput from "../components/phone-input";
 import ForgotPass from "../components/forgot-pass";
+import AuthBtn from "../components/auth-btn";
 
 const RegisterPage = () => {
   return (
