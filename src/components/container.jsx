@@ -1,4 +1,4 @@
-const Action = ({ children, actionType = "action" }) => {
+const Container = ({ children, actionType = "action" }) => {
   return (
     <div className={actionType}>
       {children}
@@ -6,4 +6,4 @@ const Action = ({ children, actionType = "action" }) => {
   );
 }
 
-export default Action;
+export default Container;
