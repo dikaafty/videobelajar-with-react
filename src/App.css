@@ -140,6 +140,17 @@ body {
     gap: 24px;
 }
 
+.inputAction,
+.btnAction {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.inputAction {
+    width: 518px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
