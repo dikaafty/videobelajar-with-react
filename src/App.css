@@ -118,6 +118,15 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.formSubTitle {
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--secondary-dark-text-color);
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
