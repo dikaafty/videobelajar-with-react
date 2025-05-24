@@ -61,6 +61,8 @@ const RegisterPage = () => {
             </ActionForm>
 
             <Divider />
+
+            <GoogleSSOBtn />
           </Container>
         </AuthForm>
       </Body>
