@@ -169,6 +169,13 @@ body {
     gap: 4px;
 }
 
+.asterisk {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    color: var(--default-error);
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
