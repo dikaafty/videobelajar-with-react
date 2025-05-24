@@ -1,4 +1,4 @@
-const AuthForm = ({ isLoginForm = true }) => {
+const AuthForm = ({ isLoginForm = true, children }) => {
   return (
       <>
         <div className="formContainer">
