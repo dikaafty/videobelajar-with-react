@@ -391,6 +391,10 @@ body {
     .btnAction {
         width: 100%;
     }
+
+    .inputAction {
+        gap: 12px;
+    }
 }
 
 /* Media Queries styling section end */
