@@ -422,6 +422,12 @@ body {
     .divider {
         font-size: 14px;
     }
+
+    .googleBtn {
+        width: 100%;
+        height: 34px;
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
