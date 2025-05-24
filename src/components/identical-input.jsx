@@ -1,21 +1,21 @@
 import eyeOffIcon from "../assets/images/eye-off-icon.png";
 
 const IdenticalInput = (
-  { labelFor, labelText, inputType, inputName, inputId, isPassInput = false }
+  { fieldName, labelText, inputType, isPassInput = false }
 ) => {
   if(!isPassInput) {
     return (
       <div className="identicalInputContainer">
         <label 
-          htmlFor={labelFor} 
+          htmlFor={fieldName} 
           className="identicalLabel">
             {labelText}
             <span className="asterisk">*</span>
         </label>
         <input 
           type={inputType}
-          name={inputName}
-          id={inputId}
+          name={fieldName}
+          id={fieldName}
           required
         />
       </div>
@@ -24,7 +24,7 @@ const IdenticalInput = (
     return (
       <div className="identicalInputContainer">
         <label 
-          htmlFor={labelFor} 
+          htmlFor={fieldName} 
           className="identicalLabel">
             {labelText}
             <span className="asterisk">*</span>
@@ -33,8 +33,8 @@ const IdenticalInput = (
         <div className="wrapper">
           <input 
             type={inputType}
-            name={inputName}
-            id={inputId}
+            name={fieldName}
+            id={fieldName}
             required
           />
           <button type="button">
