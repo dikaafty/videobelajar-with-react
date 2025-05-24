@@ -16,7 +16,9 @@ const RegisterPage = () => {
     <>
       <Header />
 
-      <Body></Body>
+      <Body>
+        <AuthForm isLoginForm={false}></AuthForm>
+      </Body>
     </>
   );
 }
