@@ -397,6 +397,10 @@ body {
     .inputAction {
         gap: 12px;
     }
+
+    .identicalLabel {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
