@@ -523,7 +523,8 @@ body {
     }
 
     .phoneInputWrapper select,
-    .phoneInputContainer input {
+    .phoneInputContainer input,
+    .genderInputContainer select {
         font-size: 14px;
     }
 
