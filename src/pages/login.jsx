@@ -14,7 +14,14 @@ const LoginPage = () => {
       <AuthForm>
         <Container containerClass="action">
           <ActionForm>
-            <Container containerClass="inputAction"></Container>
+            <Container containerClass="inputAction">
+              <IdenticalInput 
+                fieldName="userEmail" 
+                labelText="E-Mail" 
+                inputType="email" 
+              />
+            </Container>
+
             <Container containerClass="btnAction"></Container>
           </ActionForm>
         </Container>
