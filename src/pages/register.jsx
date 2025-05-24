@@ -26,7 +26,12 @@ const RegisterPage = () => {
                   labelText="Nama Lengkap" 
                   inputType="text" 
                 />
-                
+
+                <IdenticalInput 
+                  fieldName="userEmail" 
+                  labelText="E-Mail" 
+                  inputType="email" 
+                />
               </Container>
 
               <Container containerClass="btnAction"></Container>
