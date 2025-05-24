@@ -13,7 +13,7 @@ import GoogleSSOBtn from "../components/google-sso-btn";
 
 const RegisterPage = () => {
   return (
-
+    <Header />
   );
 }
 
