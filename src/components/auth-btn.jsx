@@ -7,3 +7,5 @@ const AuthBtn = ({ isLoginBtn = true }) => {
     </button>
   );
 }
+
+export default AuthBtn;
