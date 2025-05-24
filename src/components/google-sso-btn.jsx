@@ -1,6 +1,6 @@
 import googleIcon from "../assets/images/google-icon.png";
 
-const GoogleSSOBtn = ({ inLoginPage }) => {
+const GoogleSSOBtn = ({ inLoginPage = true }) => {
   return (
     <button 
       type="button" 
