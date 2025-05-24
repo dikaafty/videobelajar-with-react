@@ -20,6 +20,13 @@ const LoginPage = () => {
                 labelText="E-Mail" 
                 inputType="email" 
               />
+
+              <IdenticalInput 
+                fieldName="userPass" 
+                labelText="Kata Sandi" 
+                inputType="password" 
+                isPassInput={true}
+              />
             </Container>
 
             <Container containerClass="btnAction"></Container>
