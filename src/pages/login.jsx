@@ -1,6 +1,7 @@
 import Body from "../components/body";
 import AuthForm from "../components/auth-form";
 import Action from "../components/action";
+import ActionForm from "../components/action-form";
 import InputAction from "../components/input-action";
 import BtnAction from "../components/btn-action";
 import IdenticalInput from "../components/identical-input";
