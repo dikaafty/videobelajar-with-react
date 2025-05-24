@@ -34,6 +34,8 @@ const RegisterPage = () => {
                 />
 
                 <GenderInput />
+
+                <PhoneInput />
               </Container>
 
               <Container containerClass="btnAction"></Container>
