@@ -49,3 +49,5 @@ const IdenticalInput = (
     );
   }
 }
+
+export default IdenticalInput;
