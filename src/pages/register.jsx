@@ -50,6 +50,8 @@ const RegisterPage = () => {
                   inputType="password" 
                   isPassInput={true}
                 />
+
+                <ForgotPass />
               </Container>
 
               <Container containerClass="btnAction"></Container>
