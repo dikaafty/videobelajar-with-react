@@ -33,6 +33,7 @@ const LoginPage = () => {
 
             <Container containerClass="btnAction">
               <AuthBtn />
+              <AuthBtn isLoginBtn={false} />
             </Container>
           </ActionForm>
         </Container>
