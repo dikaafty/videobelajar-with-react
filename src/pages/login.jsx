@@ -9,9 +9,9 @@ import Divider from "../components/divider";
 import GoogleSSOBtn from "../components/google-sso-btn";
 
 const LoginPage = () => {
-    return (
-        
-    );
+  return (
+    
+  );
 }
 
 export default LoginPage;
