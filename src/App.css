@@ -528,6 +528,10 @@ body {
         font-size: 14px;
     }
 
+    .phoneInputWrapper select {
+        width: 78px;
+    }
+
     .forgotPass {
         font-size: 14px;
     }
