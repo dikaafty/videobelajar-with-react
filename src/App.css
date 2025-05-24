@@ -522,6 +522,10 @@ body {
         grid-template-columns: min-content auto;
     }
 
+    .phoneInputWrapper select {
+        font-size: 14px;
+    }
+
     .forgotPass {
         font-size: 14px;
     }
