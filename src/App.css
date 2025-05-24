@@ -151,6 +151,12 @@ body {
     width: 518px;
 }
 
+.identicalInputContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
@@ -161,7 +167,11 @@ body {
 
 /* Register styling section start */
 
-
+.genderInputContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
 
 /* Register styling section end */
 
