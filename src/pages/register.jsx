@@ -20,7 +20,14 @@ const RegisterPage = () => {
         <AuthForm isLoginForm={false}>
           <Container containerClass="action">
             <ActionForm>
-              <Container containerClass="inputAction"></Container>
+              <Container containerClass="inputAction">
+                <IdenticalInput 
+                  fieldName="userFullName" 
+                  labelText="Nama Lengkap" 
+                  inputType="text" 
+                />
+                
+              </Container>
 
               <Container containerClass="btnAction"></Container>
             </ActionForm>
