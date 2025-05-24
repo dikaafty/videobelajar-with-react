@@ -375,6 +375,9 @@ body {
         gap: 20px;
     }
 
+    .formDesc {
+        width: 100%;
+    }
 }
 
 /* Media Queries styling section end */
