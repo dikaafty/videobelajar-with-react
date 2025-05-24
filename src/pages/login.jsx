@@ -11,7 +11,9 @@ import GoogleSSOBtn from "../components/google-sso-btn";
 const LoginPage = () => {
   return (
     <Body>
-      
+      <AuthForm>
+        
+      </AuthForm>
     </Body>
   );
 }
