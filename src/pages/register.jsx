@@ -36,6 +36,13 @@ const RegisterPage = () => {
                 <GenderInput />
 
                 <PhoneInput />
+
+                <IdenticalInput 
+                  fieldName="userPass" 
+                  labelText="Kata Sandi" 
+                  inputType="password" 
+                  isPassInput={true}
+                />
               </Container>
 
               <Container containerClass="btnAction"></Container>
