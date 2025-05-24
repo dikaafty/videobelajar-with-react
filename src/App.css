@@ -388,7 +388,9 @@ body {
     }
 
     .inputAction,
-    .btnAction {
+    .btnAction,
+    .identicalInputContainer,
+    .googleBtn {
         width: 100%;
     }
 
