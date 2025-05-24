@@ -332,6 +332,12 @@ body {
     background-repeat: no-repeat;
 }
 
+.phoneInputContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
 /* Register styling section end */
 
 /* Homepage styling section start */
