@@ -78,6 +78,17 @@ body {
     height: 56px;
 }
 
+.main {
+    flex-grow: 1;
+    background-color: #FFFDF3;
+    padding: 64px 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
