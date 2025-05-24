@@ -1,3 +1,3 @@
-const GenderInput = () => {
-    
+const GenderInput = ({ fieldName, labelText }) => {
+
 }
