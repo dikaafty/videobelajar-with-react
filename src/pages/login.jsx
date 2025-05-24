@@ -11,39 +11,42 @@ import GoogleSSOBtn from "../components/google-sso-btn";
 
 const LoginPage = () => {
   return (
-    <Body>
-      <AuthForm>
-        <Container containerClass="action">
-          <ActionForm>
-            <Container containerClass="inputAction">
-              <IdenticalInput 
-                fieldName="userEmail" 
-                labelText="E-Mail" 
-                inputType="email" 
-              />
+    <>
 
-              <IdenticalInput 
-                fieldName="userPass" 
-                labelText="Kata Sandi" 
-                inputType="password" 
-                isPassInput={true}
-              />
+      <Body>
+        <AuthForm>
+          <Container containerClass="action">
+            <ActionForm>
+              <Container containerClass="inputAction">
+                <IdenticalInput 
+                  fieldName="userEmail" 
+                  labelText="E-Mail" 
+                  inputType="email" 
+                />
 
-              <ForgotPass />
-            </Container>
+                <IdenticalInput 
+                  fieldName="userPass" 
+                  labelText="Kata Sandi" 
+                  inputType="password" 
+                  isPassInput={true}
+                />
 
-            <Container containerClass="btnAction">
-              <AuthBtn />
-              <AuthBtn isLoginBtn={false} />
-            </Container>
-          </ActionForm>
+                <ForgotPass />
+              </Container>
 
-          <Divider />
+              <Container containerClass="btnAction">
+                <AuthBtn />
+                <AuthBtn isLoginBtn={false} />
+              </Container>
+            </ActionForm>
 
-          <GoogleSSOBtn />
-        </Container>
-      </AuthForm>
-    </Body>
+            <Divider />
+
+            <GoogleSSOBtn />
+          </Container>
+        </AuthForm>
+      </Body>
+    </>
   );
 }
 
