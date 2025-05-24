@@ -15,6 +15,8 @@ const RegisterPage = () => {
   return (
     <>
       <Header />
+
+      <Body></Body>
     </>
   );
 }
