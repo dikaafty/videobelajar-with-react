@@ -5,3 +5,5 @@ const InputAction = ({ children }) => {
     </div>
   );
 }
+
+export default InputAction;
