@@ -25,3 +25,5 @@ const GenderInput = () => {
     </div>
   );
 }
+
+export default GenderInput;
