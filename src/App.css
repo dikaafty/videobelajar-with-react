@@ -378,6 +378,14 @@ body {
     .formDesc {
         width: 100%;
     }
+    
+    .formTitle {
+        font-size: 24px;
+    }
+
+    .formSubTitle {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
