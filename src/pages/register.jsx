@@ -32,6 +32,8 @@ const RegisterPage = () => {
                   labelText="E-Mail" 
                   inputType="email" 
                 />
+
+                <GenderInput />
               </Container>
 
               <Container containerClass="btnAction"></Container>
