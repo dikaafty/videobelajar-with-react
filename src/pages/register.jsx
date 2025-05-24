@@ -62,7 +62,7 @@ const RegisterPage = () => {
 
             <Divider />
 
-            <GoogleSSOBtn />
+            <GoogleSSOBtn inLoginPage={false} />
           </Container>
         </AuthForm>
       </Body>
