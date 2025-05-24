@@ -5,7 +5,7 @@ const GenderInput = () => {
         htmlFor="userGender" 
         className="identicalLabel">
           Jenis Kelamin 
-          <span class="asterisk">*</span>
+          <span className="asterisk">*</span>
       </label>
 
       <select 
