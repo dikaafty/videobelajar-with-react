@@ -59,6 +59,8 @@ const RegisterPage = () => {
                 <AuthBtn inLoginPage={false} />
               </Container>
             </ActionForm>
+
+            <Divider />
           </Container>
         </AuthForm>
       </Body>
