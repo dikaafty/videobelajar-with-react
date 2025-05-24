@@ -1,6 +1,6 @@
 const Action = ({ children, actionType = "action" }) => {
   return (
-    <div className="action">
+    <div className={actionType}>
       {children}
     </div>
   );
