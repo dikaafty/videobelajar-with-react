@@ -2,6 +2,14 @@ import googleIcon from "../assets/images/google-icon.png";
 
 const GoogleSSOBtn = ({ inLoginPage }) => {
   return (
-
+    <button 
+      type="button" 
+      className="googleBtn">
+      <img 
+        src={googleIcon} 
+        alt="google icon" 
+      />
+      {inLoginPage ? "Masuk" : "Daftar"} dengan Google
+     </button>
   );
 }
