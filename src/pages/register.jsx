@@ -19,7 +19,11 @@ const RegisterPage = () => {
       <Body>
         <AuthForm isLoginForm={false}>
           <Container containerClass="action">
-            <ActionForm></ActionForm>
+            <ActionForm>
+              <Container containerClass="inputAction"></Container>
+
+              <Container containerClass="btnAction"></Container>
+            </ActionForm>
           </Container>
         </AuthForm>
       </Body>
