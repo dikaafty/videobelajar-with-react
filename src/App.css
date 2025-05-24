@@ -134,6 +134,12 @@ body {
     gap: 24px;
 }
 
+.action form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
