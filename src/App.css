@@ -196,6 +196,19 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.wrapper button {
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    color: var(--disabled-dark-text-color);
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 /* Shared class styling section end */
 
 /* Login styling section start */
