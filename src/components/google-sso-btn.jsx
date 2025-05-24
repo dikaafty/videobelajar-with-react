@@ -13,3 +13,5 @@ const GoogleSSOBtn = ({ inLoginPage = true }) => {
      </button>
   );
 }
+
+export default GoogleSSOBtn;
