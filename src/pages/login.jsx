@@ -5,7 +5,7 @@ import ForgotPass from "../components/forgot-pass";
 import AuthBtn from "../components/auth-btn";
 import GoogleSSOBtn from "../components/google-sso-btn";
 
-const Login = () => {
+const LoginPage = () => {
     return (
         
     );
