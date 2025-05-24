@@ -2,6 +2,7 @@ import Header from "../components/header";
 import Body from "../components/body";
 import AuthForm from "../components/auth-form";
 import Container from "../components/container";
+import ActionForm from "../components/action-form";
 
 const RegisterPage = () => {
   return (
