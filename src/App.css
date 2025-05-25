@@ -762,6 +762,14 @@ body {
     color: var(--secondary-light-text-color);
 }
 
+.newsletterDesc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
