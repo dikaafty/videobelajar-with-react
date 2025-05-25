@@ -1,4 +1,4 @@
-const Divider = ({ className }) => {
+const Divider = ({ className, dividerText = "" }) => {
   return (
     <div className={className}>atau</div>
   );
