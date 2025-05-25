@@ -770,6 +770,15 @@ body {
     gap: 10px;
 }
 
+.newsletterTitle {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 110.00000000000001%;
+    text-align: center;
+    color: var(--primary-light-text-color);
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
