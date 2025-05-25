@@ -16,3 +16,5 @@ const Nav = ({ navText, navList = [] }) => {
     </div>
   );
 }
+
+export default Nav;
