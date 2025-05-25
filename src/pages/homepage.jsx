@@ -22,6 +22,8 @@ const HomePage = () => {
 
         <Container containerClass="cardSection">
           <CardSectionDesc />
+
+          <CardSectionTabs />
         </Container>
       </Body>
     </>
