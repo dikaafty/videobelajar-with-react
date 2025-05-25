@@ -1101,6 +1101,11 @@ body {
     .findCourseBtn {
         font-size: 14px;
     }
+
+    .findCourseBtn {
+        width: 100%;
+        font-weight: 400;
+    }
 }
 
 /* Media Queries styling section end */
