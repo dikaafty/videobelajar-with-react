@@ -1110,6 +1110,14 @@ body {
     .cardSection {
         gap: 24px;
     }
+
+    .cardSectionTitle {
+        font-size: 24px;
+    }
+
+    .cardSectionSubTitle {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
