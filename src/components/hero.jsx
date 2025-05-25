@@ -14,6 +14,8 @@ const Hero = () => {
             interaktif yang akan meningkatkan pemahaman Anda.
         </p>
       </div>
+
+      <button className="findCourseBtn">Temukan Video Course untuk Dipelajari!</button>
     </div>
   );
 }
