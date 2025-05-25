@@ -40,3 +40,5 @@ const CardSectionTabs = () => {
     </div>
   );
 }
+
+export default CardSectionTabs;
