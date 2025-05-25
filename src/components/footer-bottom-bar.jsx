@@ -35,3 +35,5 @@ const footerBottomBar = () => {
     </div>
   );
 }
+
+export default footerBottomBar;
