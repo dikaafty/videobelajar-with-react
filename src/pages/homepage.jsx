@@ -38,7 +38,9 @@ const HomePage = () => {
           </Container>
         </Container>
 
-        <Container containerClass="newsletterContainer"></Container>
+        <Container containerClass="newsletterContainer">
+          <Newsletter />
+        </Container>
       </Body>
     </>
   );
