@@ -661,6 +661,10 @@ body {
     border-radius: 10px;
 }
 
+.courseOwnerInfo {
+    width: 100%;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
