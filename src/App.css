@@ -968,6 +968,12 @@ body {
         flex-direction: column;
         gap: 32px;
     }
+
+    .footerNav {
+        flex-wrap: wrap;
+        overflow-y: auto;
+        row-gap: 32px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
