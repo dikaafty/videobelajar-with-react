@@ -13,3 +13,5 @@ const CardSectionDesc = () => {
     </div>
   );
 }
+
+export default CardSectionDesc;
