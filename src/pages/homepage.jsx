@@ -17,7 +17,9 @@ const HomePage = () => {
     <>
       <Header isHomepageHeader={true} />
 
-      <Body></Body>
+      <Body>
+        <Hero />
+      </Body>
     </>
   );
 }
