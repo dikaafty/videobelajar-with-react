@@ -939,6 +939,15 @@ body {
     gap: 36px;
 }
 
+.copyrightText {
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--secondary-dark-text-color);
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
