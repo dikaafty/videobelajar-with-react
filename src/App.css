@@ -475,6 +475,12 @@ body {
     gap: 24px;
 }
 
+.heroDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
