@@ -519,6 +519,13 @@ body {
     gap: 32px;
 }
 
+.cardSectionDesc {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
