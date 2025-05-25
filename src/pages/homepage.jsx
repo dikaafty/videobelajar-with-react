@@ -16,6 +16,8 @@ const HomePage = () => {
   return (
     <>
       <Header isHomepageHeader={true} />
+
+      <Body></Body>
     </>
   );
 }
