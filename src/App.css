@@ -906,6 +906,12 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.navLists {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
