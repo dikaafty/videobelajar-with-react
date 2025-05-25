@@ -15,3 +15,5 @@ import FooterBottomBar from "../components/footer-bottom-bar";
 const HomePage = () => {
   
 }
+
+export default HomePage;
