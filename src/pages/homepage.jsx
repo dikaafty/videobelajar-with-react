@@ -43,7 +43,9 @@ const HomePage = () => {
         </Container>
       </Body>
 
-      <Footer></Footer>
+      <Footer>
+        <Container containerClass="mainFooterContent"></Container>
+      </Footer>
     </>
   );
 }
