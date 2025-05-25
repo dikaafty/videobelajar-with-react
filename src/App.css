@@ -589,6 +589,16 @@ body {
     bottom: 0;
 }
 
+.cardContainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(384px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(0, 1fr));
+    place-items: center;
+    row-gap: 32px;
+    column-gap: 24px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
