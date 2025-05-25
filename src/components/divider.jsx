@@ -1,6 +1,6 @@
 const Divider = ({ className }) => {
   return (
-    <div className="divider">atau</div>
+    <div className={className}>atau</div>
   );
 }
 
