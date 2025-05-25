@@ -526,6 +526,14 @@ body {
     gap: 10px;
 }
 
+.cardSectionTitle {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 110.00000000000001%;
+    color: var(--primary-dark-text-color);
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
