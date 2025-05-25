@@ -61,6 +61,31 @@ const Card = ({ id }) => {
             harga yang terjangkau, dan kurikulum terbaik
         </p>
       </div>
+
+      <div className="courseOwner">
+        <img 
+          src={charImgMap[id]} 
+          alt={`Char ${id}`} 
+          className="charImg" 
+        />
+
+        <div className="courseOwnerInfo">
+          <p 
+            className="courseOwnerName">
+              Jenna Ortega
+          </p>
+
+          <p 
+            className="courseOwnerProfession">
+              Senior Accountant
+              <span> di </span>
+              <span 
+                className="bold">
+                  Gojek
+              </span>
+          </p>
+        </div>
+      </div>
     </div>
   );
 }
