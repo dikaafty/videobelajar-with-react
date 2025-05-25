@@ -1083,6 +1083,11 @@ body {
         height: 34px;
         font-size: 14px;
     }
+
+    .dehazeIcon {
+        width: 24px;
+        height: 24px;
+    }
 }
 
 /* Media Queries styling section end */
