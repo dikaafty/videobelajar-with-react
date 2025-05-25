@@ -1250,6 +1250,11 @@ body {
     .brandPhoneNumber {
         font-size: 14px;
     }
+
+    .footerNav {
+        flex-direction: column;
+        gap: 12px;
+    }
 }
 
 /* Media Queries styling section end */
