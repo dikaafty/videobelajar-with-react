@@ -1193,6 +1193,14 @@ body {
     .newsletterText {
         font-size: 16px;
     }
+
+    .newsletterTitle {
+        font-size: 24px;
+    }
+
+    .newsletterSubTitle {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
