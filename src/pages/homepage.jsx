@@ -42,6 +42,8 @@ const HomePage = () => {
           <Newsletter />
         </Container>
       </Body>
+
+      <Footer></Footer>
     </>
   );
 }
