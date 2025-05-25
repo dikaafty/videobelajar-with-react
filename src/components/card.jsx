@@ -1,3 +1,3 @@
-const Card = () => {
+const Card = ({ id }) => {
   
 }
