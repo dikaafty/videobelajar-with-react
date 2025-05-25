@@ -1201,6 +1201,13 @@ body {
     .newsletterSubTitle {
         font-size: 14px;
     }
+
+    .newsletterInputContainer {
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
 }
 
 /* Media Queries styling section end */
