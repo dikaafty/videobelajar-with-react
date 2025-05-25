@@ -458,6 +458,23 @@ body {
     border-radius: 10px;
 }
 
+.hero {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) ,url("./assets/images/hero-background.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    padding: clamp(64px, 5.69vw, 82px) clamp(20px, 9.72vw, 140px) 64px;
+    color: var(--primary-light-text-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
