@@ -933,6 +933,12 @@ body {
     border-bottom: 1px solid var(--border-color);
 }
 
+.footerBottomBar {
+    display: flex;
+    justify-content: space-between;
+    gap: 36px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
