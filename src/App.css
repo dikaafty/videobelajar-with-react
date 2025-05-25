@@ -633,6 +633,22 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.cardSubTitle {
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--secondary-dark-text-color);
+
+    /* Cut line after more than 2 line */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
