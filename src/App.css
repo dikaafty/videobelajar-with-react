@@ -1240,6 +1240,10 @@ body {
         width: 170px;
         height: 36px;
     }
+
+    .brandInfo {
+        gap: 8px;
+    }
 }
 
 /* Media Queries styling section end */
