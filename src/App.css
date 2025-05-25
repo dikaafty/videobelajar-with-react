@@ -927,6 +927,12 @@ body {
     text-decoration: underline;
 }
 
+.footerSectionDivider {
+    width: 100%;
+    padding-top: 32px;
+    border-bottom: 1px solid var(--border-color);
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
