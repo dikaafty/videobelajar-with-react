@@ -33,6 +33,7 @@ const HomePage = () => {
           <Card id={6} />
           <Card id={7} />
           <Card id={8} />
+          <Card id={9} />
         </Container>
       </Body>
     </>
