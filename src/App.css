@@ -861,6 +861,13 @@ body {
     height: 56px;
 }
 
+.brandInfo {
+    color: var(--primary-dark-text-color);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
