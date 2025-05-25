@@ -698,6 +698,11 @@ body {
     gap: 8px;
 }
 
+.courseRating img {
+    width: 90px;
+    height: 18px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
