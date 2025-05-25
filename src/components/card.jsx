@@ -87,6 +87,25 @@ const Card = ({ id }) => {
           </p>
         </div>
       </div>
+
+      <div className="courseInfo">
+        <div className="courseRating">
+          <img 
+            src={starsRatingImg} 
+            alt="Stars Rating" 
+          />
+
+          <p 
+            className="textRating">
+              3.5 (86)
+          </p>
+        </div>
+
+        <h4 
+          className="coursePrice">
+            Rp 300K
+        </h4>
+      </div>
     </div>
   );
 }
