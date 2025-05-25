@@ -1,6 +1,9 @@
 const Divider = ({ className, dividerText = "" }) => {
   return (
-    <div className={className}>atau</div>
+    <div 
+      className={className}>
+        {dividerText}
+    </div>
   );
 }
 
