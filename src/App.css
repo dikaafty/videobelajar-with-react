@@ -1161,6 +1161,14 @@ body {
         width: 36px;
         height: 36px;
     }
+
+    .courseOwnerName {
+        font-size: 14px;
+    }
+
+    .courseOwnerProfession {
+        font-size: 12px;
+    }
 }
 
 /* Media Queries styling section end */
