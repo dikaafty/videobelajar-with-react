@@ -41,7 +41,7 @@ const LoginPage = () => {
               </Container>
             </ActionForm>
 
-            <Divider />
+            <Divider className="divider" dividerText="atau" />
 
             <GoogleSSOBtn />
           </Container>
