@@ -1266,6 +1266,10 @@ body {
         content: ">";
         color: #3A35418A;
     }
+
+    .navLists {
+        display: none;
+    }
 }
 
 /* Media Queries styling section end */
