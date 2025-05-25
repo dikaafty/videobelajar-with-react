@@ -618,6 +618,13 @@ body {
     object-fit: cover;
 }
 
+.cardDesc {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
