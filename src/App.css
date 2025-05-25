@@ -1244,6 +1244,12 @@ body {
     .brandInfo {
         gap: 8px;
     }
+
+    .textInfo,
+    .brandAddress,
+    .brandPhoneNumber {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
