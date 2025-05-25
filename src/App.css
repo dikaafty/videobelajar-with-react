@@ -1216,6 +1216,12 @@ body {
         font-size: 14px;
         text-align: center;
     }
+
+    .subscribeBtn {
+        font-size: 14px;
+        position: unset;
+        transform: translateX(0);
+    }
 }
 
 /* Media Queries styling section end */
