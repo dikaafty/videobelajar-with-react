@@ -47,6 +47,19 @@ const Card = ({ id }) => {
         src={cardImgMap[id]} 
         alt={`Card Image ${id}`} 
       />
+
+      <div className="cardDesc">
+        <h6 
+          className="cardTitle">
+            Big 4 Auditor Financial Analyst
+        </h6>
+
+        <p 
+          className="cardSubTitle">
+            Mulai transformasi dengan instruktur profesional,
+            harga yang terjangkau, dan kurikulum terbaik
+        </p>
+      </div>
     </div>
   );
 }
