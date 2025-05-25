@@ -655,6 +655,12 @@ body {
     gap: 10px;
 }
 
+.charImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
