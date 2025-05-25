@@ -953,6 +953,12 @@ body {
     gap: 15px;
 }
 
+.brandSocials img {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
