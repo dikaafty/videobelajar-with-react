@@ -964,7 +964,10 @@ body {
 /* Media Queries styling section start */
 
 @media only screen and (max-width: 992px) {
-    
+    .mainFooterContent {
+        flex-direction: column;
+        gap: 32px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
