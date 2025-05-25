@@ -693,6 +693,11 @@ body {
     justify-content: space-between;
 }
 
+.courseRating {
+    display: flex;
+    gap: 8px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
