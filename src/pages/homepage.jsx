@@ -59,6 +59,11 @@ const HomePage = () => {
               navList={["Tentang Kami", "FAQ",
               "Kebijakan Privasi", "Ketentuan Layanan", "Bantuan"]} 
             />
+            
+            <Nav 
+              navText="Komunitas" 
+              navList={["Tips Sukses", "Blog"]} 
+            />
           </Container>
         </Container>
       </Footer>
