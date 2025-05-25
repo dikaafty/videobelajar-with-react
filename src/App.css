@@ -1096,6 +1096,11 @@ body {
     .heroTitle {
         font-size: 24px;
     }
+
+    .heroSubTitle,
+    .findCourseBtn {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
