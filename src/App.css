@@ -868,6 +868,14 @@ body {
     gap: 12px;
 }
 
+.textInfo {
+    font-family: "DM Sans";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
