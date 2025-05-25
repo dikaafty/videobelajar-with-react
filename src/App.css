@@ -842,6 +842,13 @@ body {
     gap: 20px;
 }
 
+.mainFooterContent {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
