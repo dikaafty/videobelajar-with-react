@@ -47,7 +47,13 @@ const HomePage = () => {
         <Container containerClass="mainFooterContent">
           <FooterBrandInfo />
 
-          <Container containerClass="footerNav"></Container>
+          <Container containerClass="footerNav">
+            <Nav 
+              navText="Kategori" 
+              navList={["Digital & Teknologi", "Pemasaran",
+              "Manajemen Bisnis", "Pengembangan Diri", "Desain"]} 
+            />
+          </Container>
         </Container>
       </Footer>
     </>
