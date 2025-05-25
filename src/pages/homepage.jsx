@@ -53,6 +53,12 @@ const HomePage = () => {
               navList={["Digital & Teknologi", "Pemasaran",
               "Manajemen Bisnis", "Pengembangan Diri", "Desain"]} 
             />
+
+            <Nav 
+              navText="Perusahaan" 
+              navList={["Tentang Kami", "FAQ",
+              "Kebijakan Privasi", "Ketentuan Layanan", "Bantuan"]} 
+            />
           </Container>
         </Container>
       </Footer>
