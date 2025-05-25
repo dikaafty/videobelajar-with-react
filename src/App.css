@@ -1173,6 +1173,10 @@ body {
     .courseOwnerProfession span {
         display: none;
     }
+
+    .courseInfo {
+        grid-area: 3 / 1 / 4 / 3;
+    }
 }
 
 /* Media Queries styling section end */
