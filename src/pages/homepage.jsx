@@ -19,6 +19,8 @@ const HomePage = () => {
 
       <Body>
         <Hero />
+
+        <Container containerClass="cardSection"></Container>
       </Body>
     </>
   );
