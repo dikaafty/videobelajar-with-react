@@ -891,6 +891,12 @@ body {
     gap: 48px;
 }
 
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
