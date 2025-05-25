@@ -1151,6 +1151,11 @@ body {
     .cardSubTitle {
         display: none;
     }
+
+    .courseOwner {
+        grid-area: 2 / 2 / 3 / 3;
+        gap: 8px;
+    }
 }
 
 /* Media Queries styling section end */
