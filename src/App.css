@@ -674,6 +674,15 @@ body {
     color: var(--primary-dark-text-color);
 }
 
+.courseOwnerProfession {
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--secondary-dark-text-color);
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
