@@ -1185,6 +1185,10 @@ body {
     .coursePrice {
         font-size: 20px;
     }
+
+    .newsletterContent {
+        width: 100%;
+    }
 }
 
 /* Media Queries styling section end */
