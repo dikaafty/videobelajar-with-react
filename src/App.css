@@ -1222,6 +1222,11 @@ body {
         position: unset;
         transform: translateX(0);
     }
+
+    .footer {
+        padding: 20px;
+        gap: 16px;
+    }
 }
 
 /* Media Queries styling section end */
