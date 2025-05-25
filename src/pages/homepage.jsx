@@ -66,6 +66,8 @@ const HomePage = () => {
             />
           </Container>
         </Container>
+
+        <Divider className="footerSectionDivider" />
       </Footer>
     </>
   );
