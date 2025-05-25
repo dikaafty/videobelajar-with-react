@@ -683,6 +683,10 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.courseOwnerProfession .bold {
+    font-weight: 700;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
