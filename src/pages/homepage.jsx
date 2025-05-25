@@ -37,6 +37,8 @@ const HomePage = () => {
             <Card id={9} />
           </Container>
         </Container>
+
+        <Container containerClass="newsletterContainer"></Container>
       </Body>
     </>
   );
