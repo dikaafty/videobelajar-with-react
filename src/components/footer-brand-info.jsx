@@ -27,3 +27,5 @@ const FooterBrandInfo = () => {
     </div>
   );
 }
+
+export default FooterBrandInfo;
