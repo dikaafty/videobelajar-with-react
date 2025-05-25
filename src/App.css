@@ -849,6 +849,13 @@ body {
     gap: 20px;
 }
 
+.footerBrandInfo {
+    width: 354px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
