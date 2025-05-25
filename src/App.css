@@ -885,6 +885,12 @@ body {
     letter-spacing: 0.2px;
 }
 
+.footerNav {
+    height: fit-content;
+    display: flex;
+    gap: 48px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
