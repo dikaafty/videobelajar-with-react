@@ -481,6 +481,14 @@ body {
     gap: 12px;
 }
 
+.heroTitle {
+    font-family: "Poppins";
+    font-weight: 700;
+    font-size: clamp(20px, 3.33vw + 5px, 48px);
+    line-height: 110.00000000000001%;
+    text-align: center;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
