@@ -977,7 +977,10 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-    
+    .navBtn,
+    .avatarImg {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 600px) {
