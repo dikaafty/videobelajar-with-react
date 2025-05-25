@@ -14,7 +14,9 @@ import FooterBottomBar from "../components/footer-bottom-bar";
 
 const HomePage = () => {
   return (
-    <Header isHomepageHeader={true} />
+    <>
+      <Header isHomepageHeader={true} />
+    </>
   );
 }
 
