@@ -20,7 +20,9 @@ const HomePage = () => {
       <Body>
         <Hero />
 
-        <Container containerClass="cardSection"></Container>
+        <Container containerClass="cardSection">
+          <CardSectionDesc />
+        </Container>
       </Body>
     </>
   );
