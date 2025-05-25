@@ -68,6 +68,8 @@ const HomePage = () => {
         </Container>
 
         <Divider className="footerSectionDivider" />
+
+        <FooterBottomBar />
       </Footer>
     </>
   );
