@@ -43,7 +43,10 @@ const charImgMap = {
 const Card = ({ id }) => {
   return (
     <div className="card">
-      
+      <img 
+        src={cardImgMap[id]} 
+        alt={`Card Image ${id}`} 
+      />
     </div>
   );
 }
