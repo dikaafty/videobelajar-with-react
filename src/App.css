@@ -1147,6 +1147,10 @@ body {
         grid-area: 1 / 2 / 2 / 3;
         font-size: 16px;
     }
+
+    .cardSubTitle {
+        display: none;
+    }
 }
 
 /* Media Queries styling section end */
