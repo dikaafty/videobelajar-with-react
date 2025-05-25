@@ -26,6 +26,8 @@ const HomePage = () => {
           <CardSectionTabs />
 
           <Card id={1} />
+
+          <Card id={2} />
         </Container>
       </Body>
     </>
