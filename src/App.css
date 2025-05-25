@@ -512,6 +512,13 @@ body {
     cursor: pointer;
 }
 
+.cardSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
