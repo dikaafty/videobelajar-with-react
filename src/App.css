@@ -1118,6 +1118,10 @@ body {
     .cardSectionSubTitle {
         font-size: 14px;
     }
+
+    .tab {
+        font-size: 14px;
+    }
 }
 
 /* Media Queries styling section end */
