@@ -1177,6 +1177,14 @@ body {
     .courseInfo {
         grid-area: 3 / 1 / 4 / 3;
     }
+
+    .textRating {
+        font-size: 12px;
+    }
+
+    .coursePrice {
+        font-size: 20px;
+    }
 }
 
 /* Media Queries styling section end */
