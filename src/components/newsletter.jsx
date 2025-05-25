@@ -20,6 +20,20 @@ const Newsletter = () => {
           </p>
         </div>
       </div>
+
+      <div className="newsletterInputContainer">
+        <input 
+          type="email" 
+          name="userEmail" 
+          id="userEmail" 
+          placeholder="Masukkan Emailmu" 
+        />
+
+        <button 
+          className="subscribeBtn">
+            Subscribe
+        </button>
+      </div>
     </div>
   );
 }
