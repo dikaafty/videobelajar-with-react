@@ -1156,6 +1156,11 @@ body {
         grid-area: 2 / 2 / 3 / 3;
         gap: 8px;
     }
+
+    .charImg {
+        width: 36px;
+        height: 36px;
+    }
 }
 
 /* Media Queries styling section end */
