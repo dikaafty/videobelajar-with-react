@@ -1106,6 +1106,10 @@ body {
         width: 100%;
         font-weight: 400;
     }
+
+    .cardSection {
+        gap: 24px;
+    }
 }
 
 /* Media Queries styling section end */
