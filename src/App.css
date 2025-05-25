@@ -737,6 +737,15 @@ body {
     align-items: center;
 }
 
+.newsletterContent {
+    width: 525px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
