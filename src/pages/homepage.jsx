@@ -9,6 +9,7 @@ import Newsletter from "../components/newsletter";
 import Footer from "../components/footer";
 import FooterBrandInfo from "../components/footer-brand-info";
 import Nav from "../components/nav";
+import Divider from "../components/divider";
 
 const HomePage = () => {
   
