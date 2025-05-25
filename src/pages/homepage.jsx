@@ -13,7 +13,9 @@ import Divider from "../components/divider";
 import FooterBottomBar from "../components/footer-bottom-bar";
 
 const HomePage = () => {
-  
+  return (
+    
+  );
 }
 
 export default HomePage;
