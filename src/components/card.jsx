@@ -45,7 +45,8 @@ const Card = ({ id }) => {
     <div className="card">
       <img 
         src={cardImgMap[id]} 
-        alt={`Card Image ${id}`} 
+        alt={`Card Image ${id}`}
+        className="cardImg" 
       />
 
       <div className="cardDesc">
