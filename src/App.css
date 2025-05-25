@@ -611,6 +611,13 @@ body {
     gap: 16px;
 }
 
+.cardImg {
+    width: 344px;
+    height: 193px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
