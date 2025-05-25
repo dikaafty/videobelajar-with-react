@@ -948,6 +948,11 @@ body {
     color: var(--secondary-dark-text-color);
 }
 
+.brandSocials {
+    display: flex;
+    gap: 15px;
+}
+
 /* Homepage styling section end */
 
 /* Media Queries styling section start */
