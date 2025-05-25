@@ -44,7 +44,9 @@ const HomePage = () => {
       </Body>
 
       <Footer>
-        <Container containerClass="mainFooterContent"></Container>
+        <Container containerClass="mainFooterContent">
+          <FooterBrandInfo />
+        </Container>
       </Footer>
     </>
   );
