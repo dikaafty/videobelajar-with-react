@@ -1137,6 +1137,11 @@ body {
         gap: 8px;
     }
 
+    .cardImg {
+        grid-area: 1 / 1 / 3 / 2;
+        width: 82px;
+        height: 82px;
+    }
 }
 
 /* Media Queries styling section end */
