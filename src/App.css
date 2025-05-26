@@ -93,6 +93,12 @@ body {
     cursor: pointer;
 }
 
+.pageNav li a {
+    color: var(--secondary-dark-text-color);
+    text-decoration: none;
+}
+
+
 /* Shared class styling section start */
 
 .header {
