@@ -67,6 +67,14 @@ body {
     flex-direction: column;
 }
 
+.pageNav {
+    height: 70px;
+    background-color: #FFFDF3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Shared class styling section start */
 
 .header {
