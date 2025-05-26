@@ -7,7 +7,21 @@ import { BrowserRouter, Routes, Route, NavLink } from 'react-router';
 function App() {
   return (
     <>
-      <HomePage />
+      <BrowserRouter>
+        <div className="pageNav">
+          <ul>
+            <li><NavLink to="/">Homepage</NavLink></li>
+            <li><NavLink to="/login">Login</NavLink></li>
+            <li><NavLink to="/register">Register</NavLink></li>
+          </ul>
+        </div>
+
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/login" element={<LoginPage />} />
+          <Route path="/register" element={<RegisterPage />} />
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }
