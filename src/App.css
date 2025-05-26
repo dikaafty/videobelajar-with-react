@@ -75,6 +75,15 @@ body {
     align-items: center;
 }
 
+.pageNav ul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    list-style-type: none;
+}
+
 /* Shared class styling section start */
 
 .header {
