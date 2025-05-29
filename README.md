@@ -2,13 +2,11 @@
 
 videobelajar is a simple and responsive web-based video learning platform designed to help users access educational content anytime, anywhere. Whether you're a student or a lifelong learner, this project offers a clean interface to explore and learn from various video materials.
 
-# Live Demo
+# Demo
 
-👉 [https://videobelajar-with-react.netlify.app](https://videobelajar-with-react.netlify.app)
+👉 [Live Site](https://videobelajar-with-react.netlify.app)
 
 # Features
-
-- Video-based learning: Browse and watch educational videos.
 
 - User Authentication: Login and registration pages for user access.
 
