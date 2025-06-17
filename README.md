@@ -16,7 +16,7 @@ videobelajar is a simple and responsive web-based video learning platform design
 
 # Tech Stack
 
-- HTML, CSS, React, JSX
+- HTML, CSS, Javascript, React
 
 - Responsive Layout — using Flexbox, Grid, and Media Queries
 
